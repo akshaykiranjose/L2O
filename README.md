@@ -1,4 +1,7 @@
 ## Learning to learn by gradient descent by gradient descent - TF2
+
+Head over to the Wiki on L2O for a more comprehensive view on the paper and my implementation.
+
 - [x] Quadratics
 - [ ] MNIST
 
