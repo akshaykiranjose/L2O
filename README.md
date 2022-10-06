@@ -5,7 +5,7 @@ Head over to the [Wiki on L2O](https://github.com/akshaykiranjose/L2O/wiki) for 
 - [x] Quadratics
 - [ ] MNIST
 
-The content in the repo. varies ever so slightly from the paper and is a work under progress.
+Or to reproduce the graph or something similar, head to the ```.\revised``` and follow the instructions in the readme file.
 
 #### To be implemented:
 
