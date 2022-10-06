@@ -1,6 +1,6 @@
 ## Learning to learn by gradient descent by gradient descent - TF2
 
-Head over to the Wiki on L2O for a more comprehensive view on the paper and my implementation.
+Head over to the [Wiki on L2O](https://github.com/akshaykiranjose/L2O/wiki) for a more comprehensive view on the paper and my implementation.
 
 - [x] Quadratics
 - [ ] MNIST
@@ -9,8 +9,8 @@ The content in the repo. varies ever so slightly from the paper and is a work un
 
 #### To be implemented:
 
-- [ ] Coordinate-Wise optimizer
-- [ ] GPU Run
+- [x] Coordinate-Wise optimizer
+- [x] GPU Run
 
 ## Citations
 
