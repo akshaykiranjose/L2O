@@ -17,5 +17,5 @@ An example of a complete run command would be
 ```
 python main.py -s 123 -nF 100 -nI 150 -lr .03 -p True
 ```
-wait till it gets run and find the plot.
+wait till it gets run and find the plot (good to have a GPU).
 
